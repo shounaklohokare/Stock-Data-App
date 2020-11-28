@@ -26,4 +26,4 @@ The Application after getting stock data of Larsen and Toubro Limited from the N
 
 The Application after getting stock data of Tesla, Inc from the NASDAQ.
 
-![](Screenshots-Of-Stock-Data-App//Screenshots-Of-Stock-Data-App/Stock-Data-App-After-Getting-Data-From-NASDAQ.png)
+![](Screenshots-Of-Stock-Data-App//Stock-Data-App-After-Getting-Data-From-NASDAQ.png)
