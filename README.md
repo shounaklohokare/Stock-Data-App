@@ -5,7 +5,7 @@ A GUI based application developed using Python and its Tkinter package which acc
 3) Its opening price
 4) Its previous close
 5) The date when the last dividend was issued
-6) Its 1 year estimate
+6) Its 1 year target estimate
 7) Its 52 week range
 8) Its Market Cap
 9) Its Volume
