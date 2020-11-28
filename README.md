@@ -11,7 +11,7 @@ A GUI based application developed using Python and its Tkinter package which acc
 9) Its Volume
 
 
-The App uses the yahoo_fin package for getting all the above information. There are two modules in the yahoo_fin package, stock_info and options. The App uses the stock_info module to get all the above information. It uses two functions get_live_price() to get the live price and get_quote_table() to get the rest of the information.
+The App uses the yahoo_fin package for getting all the above information. There are two modules in the yahoo_fin package, stock_info and options. The App uses the stock_info module to get all the above information. It uses two functions from stock_info module of yahoo_fin package to get_live_price() to get the live price and get_quote_table() to get the rest of the information.
 
 The App can get the above points of information regarding a stock from NASDAQ and NSE.
 
